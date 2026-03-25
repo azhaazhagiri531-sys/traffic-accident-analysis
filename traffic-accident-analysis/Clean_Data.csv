@@ -1,0 +1,147 @@
+Accident_ID,Area,Date,Time,Vehicle_Type,Driver_Age,Cause,Injuries,Deaths,Weather
+1009,T Nagar,2022-01-27,21:41:00,Bike,60.0,drunk driving,3,1,Clear
+1015,Anna Nagar,2024-06-03,02:59:00,Bus,60.0,drunk driving,5,1,Rainy
+1000,Guindy,2023-08-05,19:27:00,Bike,15.0,wrong turn,3,0,Clear
+1016,Chromepet,2022-04-19,02:19:00,Truck,22.0,overspeed,1,1,Clear
+1088,Adyar,2024-04-30,10:21:00,Bus,45.0,signal jump,4,3,Clear
+1062,Velachery,2023-12-06,08:38:00,Truck,60.0,over speed,0,1,Cloudy
+1036,Omr,2023-08-17,20:31:00,Car,30.0,drunk driving,0,1,Rainy
+1011,Velachery,2023-04-27,11:19:00,Bus,22.0,signal jump,0,0,Rainy
+1088,Velachery,2023-07-21,18:15:00,Bus,60.0,distracted driving,5,0,Rainy
+1084,Omr,2022-03-22,04:34:00,Car,17.0,over speed,3,1,Clear
+1005,Anna Nagar,2024-01-31,17:24:00,Truck,22.0,drunk driving,0,0,Cloudy
+1071,Porur,2024-02-26,01:39:00,Truck,60.0,signal jump,3,1,Cloudy
+1034,Velachery,2022-02-10,09:58:00,Bike,30.0,overspeed,4,2,Clear
+1016,Omr,2024-01-28,23:55:00,Bus,30.0,signal jump,4,2,Clear
+1084,Tambaram,2022-02-21,20:15:00,Bus,30.0,signal jump,1,2,Rainy
+1048,Guindy,2022-11-17,21:56:00,Car,15.0,over speed,3,3,Clear
+1016,Velachery,2022-02-23,12:39:00,Auto,30.0,overspeed,3,0,Rainy
+1038,Tambaram,2022-12-22,13:32:00,Bike,15.0,overspeed,3,0,Clear
+1022,Porur,2022-11-25,06:50:00,Truck,17.0,overspeed,5,3,Rainy
+1067,Velachery,2023-05-31,00:57:00,Truck,17.0,drunk driving,4,1,Clear
+1062,Perungudi,2022-09-14,02:31:00,Auto,60.0,over speed,2,0,Rainy
+1037,Velachery,2023-05-29,15:42:00,Bus,60.0,over speed,4,0,Rainy
+1043,Tambaram,2023-04-10,04:19:00,Bike,30.0,overspeed,0,1,Clear
+1096,Guindy,2023-07-10,08:11:00,Bike,60.0,signal jump,0,2,Clear
+1008,Porur,2022-11-15,02:37:00,Auto,17.0,drunk driving,2,1,Cloudy
+1030,Anna Nagar,2022-08-19,09:30:00,Truck,45.0,signal jump,0,3,Clear
+1078,Tambaram,2022-05-09,05:18:00,Auto,60.0,wrong turn,1,1,Rainy
+1062,Perungudi,2024-05-02,16:13:00,Car,22.0,signal jump,0,0,Rainy
+1041,Velachery,2024-03-19,07:54:00,Bus,30.0,drunk driving,4,0,Clear
+1009,Chromepet,2022-10-12,03:12:00,Bike,15.0,drunk driving,3,1,Clear
+1002,Anna Nagar,2023-11-12,22:12:00,Auto,22.0,drunk driving,0,1,Clear
+1048,Chromepet,2023-06-23,00:46:00,Bus,45.0,distracted driving,0,0,Rainy
+1034,Guindy,2023-10-12,14:17:00,Truck,17.0,overspeed,1,3,Rainy
+1086,Porur,2024-02-23,11:18:00,Bus,30.0,drunk driving,4,0,Clear
+1063,Anna Nagar,2024-01-26,05:25:00,Auto,17.0,signal jump,1,2,Rainy
+1077,Adyar,2022-08-26,19:46:00,Car,45.0,signal jump,5,1,Cloudy
+1000,Guindy,2022-01-27,11:47:00,Bike,17.0,wrong turn,1,0,Cloudy
+1042,Adyar,2024-05-13,11:54:00,Truck,22.0,signal jump,2,3,Cloudy
+1016,Velachery,2023-09-01,08:22:00,Car,45.0,signal jump,5,0,Rainy
+1049,Omr,2023-12-22,14:38:00,Bike,17.0,over speed,3,0,Rainy
+1020,Chromepet,2023-02-26,23:56:00,Bus,15.0,drunk driving,1,2,Clear
+1070,Tambaram,2024-03-13,01:34:00,Truck,22.0,distracted driving,3,1,Clear
+1082,Perungudi,2023-04-07,03:39:00,Bike,22.0,drunk driving,0,3,Rainy
+1081,Velachery,2022-07-12,02:46:00,Truck,17.0,wrong turn,5,0,Clear
+1061,T Nagar,2024-03-17,22:14:00,Bus,30.0,drunk driving,0,2,Rainy
+1030,Chromepet,2023-04-29,23:43:00,Bike,17.0,over speed,3,0,Cloudy
+1031,Guindy,2023-08-13,12:56:00,Bus,17.0,drunk driving,0,1,Rainy
+1071,Chromepet,2023-09-07,14:22:00,Car,30.0,overspeed,0,0,Rainy
+1093,Guindy,2023-02-13,22:39:00,Car,60.0,distracted driving,0,2,Rainy
+1079,T Nagar,2022-05-24,02:11:00,Auto,15.0,signal jump,2,1,Clear
+1088,Perungudi,2023-02-20,10:39:00,Car,60.0,overspeed,1,2,Clear
+1096,Perungudi,2024-01-10,04:49:00,Truck,22.0,over speed,5,2,Cloudy
+1076,Perungudi,2024-04-30,22:21:00,Bus,17.0,signal jump,1,0,Clear
+1094,Velachery,2022-03-06,22:33:00,Auto,22.0,wrong turn,1,2,Rainy
+1037,Omr,2022-04-14,05:43:00,Car,15.0,drunk driving,0,0,Cloudy
+1005,Porur,2023-11-01,06:41:00,Bus,60.0,over speed,2,1,Cloudy
+1086,Omr,2022-09-03,20:36:00,Bus,22.0,overspeed,0,0,Clear
+1084,Velachery,2023-02-03,10:47:00,Auto,60.0,overspeed,3,1,Rainy
+1078,T Nagar,2023-06-30,03:37:00,Bus,15.0,wrong turn,4,0,Cloudy
+1051,Guindy,2023-04-22,15:35:00,Truck,45.0,overspeed,5,1,Rainy
+1061,T Nagar,2023-08-05,16:49:00,Truck,17.0,distracted driving,2,0,Clear
+1058,T Nagar,2023-04-17,22:47:00,Auto,30.0,wrong turn,3,1,Rainy
+1063,Chromepet,2023-12-31,23:42:00,Auto,22.0,distracted driving,4,2,Rainy
+1094,Adyar,2024-03-26,01:25:00,Bike,15.0,signal jump,4,3,Cloudy
+1006,Tambaram,2023-11-13,03:14:00,Car,30.0,drunk driving,3,1,Cloudy
+1040,Velachery,2024-05-23,21:14:00,Bike,15.0,drunk driving,1,2,Rainy
+1038,T Nagar,2022-06-09,17:47:00,Car,17.0,drunk driving,1,0,Clear
+1081,Porur,2024-01-30,14:47:00,Auto,22.0,distracted driving,0,0,Cloudy
+1071,Anna Nagar,2022-11-03,10:36:00,Truck,60.0,signal jump,0,1,Rainy
+1029,Velachery,2022-09-25,12:37:00,Car,17.0,over speed,4,1,Rainy
+1028,Velachery,2023-02-24,21:38:00,Truck,15.0,overspeed,4,2,Cloudy
+1085,Anna Nagar,2023-08-23,09:18:00,Bus,30.0,distracted driving,2,0,Clear
+1008,T Nagar,2023-02-14,15:13:00,Truck,60.0,signal jump,0,0,Clear
+1028,Velachery,2022-11-12,06:44:00,Bike,60.0,wrong turn,4,2,Rainy
+1072,Tambaram,2022-12-12,19:19:00,Truck,17.0,over speed,3,0,Clear
+1006,Tambaram,2022-11-09,15:30:00,Bus,15.0,over speed,2,1,Rainy
+1076,Anna Nagar,2024-05-25,16:56:00,Car,30.0,drunk driving,0,0,Clear
+1014,Tambaram,2022-04-14,17:29:00,Bike,45.0,overspeed,0,0,Cloudy
+1082,Chromepet,2022-10-14,16:27:00,Car,17.0,drunk driving,0,3,Clear
+1088,Anna Nagar,2023-12-02,07:55:00,Car,15.0,drunk driving,5,2,Clear
+1056,Perungudi,2022-07-16,22:49:00,Bike,17.0,signal jump,3,0,Clear
+1017,Velachery,2022-01-22,20:46:00,Bus,22.0,signal jump,1,0,Clear
+1077,Perungudi,2022-06-16,04:22:00,Auto,45.0,over speed,0,2,Clear
+1026,Velachery,2023-01-11,21:49:00,Bike,30.0,signal jump,0,3,Rainy
+1090,Omr,2023-02-18,21:29:00,Car,15.0,distracted driving,0,0,Rainy
+1072,Velachery,2024-04-26,11:53:00,Car,15.0,signal jump,0,1,Clear
+1092,Anna Nagar,2022-03-22,07:20:00,Truck,30.0,distracted driving,0,0,Rainy
+1078,Anna Nagar,2023-09-15,23:51:00,Bus,30.0,drunk driving,0,3,Clear
+1059,Anna Nagar,2023-12-10,08:51:00,Truck,45.0,signal jump,0,0,Rainy
+1030,Guindy,2023-02-15,21:14:00,Bus,17.0,signal jump,2,2,Cloudy
+1069,Adyar,2023-05-30,01:13:00,Auto,17.0,drunk driving,1,0,Rainy
+1033,T Nagar,2024-04-29,18:17:00,Bike,60.0,distracted driving,3,0,Cloudy
+1014,Guindy,2024-02-05,10:57:00,Auto,30.0,over speed,1,1,Rainy
+1024,Omr,2023-06-03,23:17:00,Truck,60.0,overspeed,3,2,Clear
+1079,Anna Nagar,2023-11-22,14:55:00,Bus,30.0,drunk driving,0,0,Clear
+1089,Velachery,2023-03-10,05:31:00,Bike,45.0,drunk driving,3,1,Rainy
+1099,Perungudi,2023-07-15,07:57:00,Car,60.0,wrong turn,1,0,Rainy
+1018,Omr,2022-05-23,12:39:00,Bus,60.0,over speed,3,1,Clear
+1075,Velachery,2022-07-23,20:50:00,Car,45.0,wrong turn,0,3,Rainy
+1090,T Nagar,2023-11-23,06:30:00,Truck,15.0,overspeed,3,1,Cloudy
+1046,Omr,2023-06-07,23:38:00,Bus,22.0,overspeed,0,3,Rainy
+1036,Anna Nagar,2024-04-27,05:46:00,Car,60.0,signal jump,3,2,Rainy
+1003,Guindy,2023-02-09,20:45:00,Bus,22.0,distracted driving,3,0,Rainy
+1012,Anna Nagar,2022-11-20,01:16:00,Bike,15.0,distracted driving,0,0,Rainy
+1093,Anna Nagar,2022-11-19,11:50:00,Auto,45.0,signal jump,4,0,Rainy
+1048,T Nagar,2024-02-15,00:11:00,Auto,15.0,drunk driving,5,0,Clear
+1097,Guindy,2023-11-05,12:55:00,Car,17.0,wrong turn,5,3,Clear
+1077,Omr,2023-10-26,11:23:00,Bike,45.0,distracted driving,4,0,Clear
+1085,Omr,2023-05-11,08:58:00,Car,17.0,distracted driving,3,0,Rainy
+1028,Guindy,2023-03-12,13:20:00,Bike,15.0,wrong turn,1,1,Clear
+1076,Anna Nagar,2024-03-23,05:27:00,Bus,17.0,distracted driving,2,3,Clear
+1035,T Nagar,2023-07-29,01:31:00,Bike,60.0,over speed,1,2,Clear
+1009,Tambaram,2023-03-17,14:52:00,Car,30.0,overspeed,5,2,Clear
+1065,Tambaram,2022-11-15,02:25:00,Truck,60.0,overspeed,3,1,Rainy
+1097,Velachery,2023-01-17,22:43:00,Bus,15.0,overspeed,0,0,Rainy
+1047,Guindy,2023-03-24,05:18:00,Bus,30.0,overspeed,5,0,Cloudy
+1037,Adyar,2024-03-04,16:34:00,Truck,45.0,signal jump,1,3,Clear
+1059,Tambaram,2023-10-06,09:52:00,Car,15.0,distracted driving,2,3,Clear
+1012,Anna Nagar,2022-09-14,05:42:00,Auto,15.0,signal jump,3,0,Rainy
+1042,T Nagar,2022-03-15,14:39:00,Bus,30.0,signal jump,5,0,Cloudy
+1068,Perungudi,2022-03-06,18:45:00,Auto,22.0,overspeed,3,2,Rainy
+1065,Guindy,2024-02-26,16:36:00,Bus,17.0,drunk driving,5,3,Rainy
+1030,Perungudi,2022-09-20,22:30:00,Truck,45.0,drunk driving,5,0,Cloudy
+1022,Porur,2023-02-08,09:47:00,Bike,22.0,signal jump,4,3,Clear
+1059,T Nagar,2023-02-23,01:12:00,Bike,30.0,overspeed,2,0,Rainy
+1037,Velachery,2023-05-23,23:39:00,Bus,17.0,over speed,5,1,Rainy
+1019,Velachery,2022-05-19,18:43:00,Truck,45.0,wrong turn,2,2,Clear
+1032,Velachery,2022-01-12,14:16:00,Auto,45.0,distracted driving,0,1,Clear
+1032,Guindy,2022-06-03,06:42:00,Bike,30.0,signal jump,0,0,Clear
+1031,Adyar,2023-12-25,20:11:00,Bus,30.0,wrong turn,3,0,Rainy
+1009,T Nagar,2024-03-02,19:44:00,Car,30.0,signal jump,0,0,Clear
+1044,Guindy,2024-03-17,16:15:00,Truck,15.0,drunk driving,5,3,Clear
+1013,T Nagar,2022-01-25,21:30:00,Truck,17.0,wrong turn,5,0,Clear
+1032,Guindy,2022-02-24,14:37:00,Auto,30.0,signal jump,4,0,Clear
+1081,Omr,2023-06-29,02:11:00,Car,45.0,overspeed,2,0,Clear
+1038,Adyar,2024-05-02,11:16:00,Bus,30.0,drunk driving,3,3,Clear
+1045,Adyar,2023-12-19,10:22:00,Bike,45.0,over speed,5,2,Clear
+1008,T Nagar,2024-05-15,18:47:00,Car,30.0,over speed,2,2,Clear
+1066,Velachery,2022-12-03,10:19:00,Bike,15.0,wrong turn,1,0,Rainy
+1024,Tambaram,2023-05-11,10:39:00,Truck,60.0,drunk driving,1,2,Rainy
+1027,Tambaram,2022-10-27,13:12:00,Bus,45.0,drunk driving,2,0,Rainy
+1026,Adyar,2022-04-02,03:21:00,Auto,22.0,over speed,0,0,Rainy
+1053,Guindy,2022-11-03,22:35:00,Auto,30.0,over speed,2,0,Rainy
+1079,Tambaram,2023-09-11,09:38:00,Bus,17.0,distracted driving,0,1,Rainy
+1096,Tambaram,2022-04-29,06:31:00,Bus,30.0,signal jump,4,2,Cloudy
+1082,Omr,2022-05-03,15:51:00,Truck,22.0,signal jump,0,0,Rainy
